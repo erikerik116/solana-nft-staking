@@ -13,6 +13,6 @@
 <h1 style="text-align: center;">Solana NFT staking</h1>
 
 <div style="display:flex; justify-content:space-between">
-    <h4 style="float: left;">This repo is solana project for nft , pnft , cnft management</h4>
+    <h4 style="float: left;">This repo is solana project for nft , pnft , cnft staking management</h4>
 
 </div>
