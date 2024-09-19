@@ -10,7 +10,7 @@
   </head>
   <body>
 
-<h1 style="text-align: center;">Solana NFT staking</h1>
+<h1 style="text-align: center;">Solana NFT staking contract</h1>
 
 <div style="display:flex; justify-content:space-between">
     <h4 style="float: left;">This repo is solana project for nft , pnft , cnft staking management</h4>
