@@ -6,7 +6,7 @@ This repo is solana project for nft , pnft , cnft staking management
 
 ## Contact me
 
-discord:  joni_727373
+discord:  adelo_8
 
 telegram: @Akamala88071015
 
